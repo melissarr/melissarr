@@ -14,6 +14,8 @@ she/her - coder of hap
 [![](https://img.shields.io/badge/-github-332B40?style=flat-square)](https://github.com/melissarr/)
 [![](https://img.shields.io/badge/-my.wish.list-2D4E00?style=flat-square)](https://www.amazon.com.br/hz/wishlist/ls/6PB7FHQF8GWA?ref_=wl_share)
 
+![Visitor Count](https://profile-counter.glitch.me/melissarr/count.svg)
+
 <img src="https://raw.githubusercontent.com/melissarr/melissarr/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
 <!-- "margin-right: whatever;" -->
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
