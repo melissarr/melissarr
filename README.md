@@ -5,8 +5,6 @@
 
 She/her
 
-Hi everyone, I'm melissar nice too meet you ! My favorite languages is python, c++ and javascript.
-
 [![Melissar's GitHub stats](https://github-readme-stats.vercel.app/api?username=melissarr&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> some links
