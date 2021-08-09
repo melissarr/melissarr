@@ -3,6 +3,6 @@
 
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> some links
 [![](https://img.shields.io/badge/-music-0073B1?style=flat-square)](https://youtu.be/1w7OgIMMRc4)
-[![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/BichinhosFB?s=09)
+[![](https://img.shields.io/badge/-animals-1C9CEA?style=flat-square)](https://twitter.com/BichinhosFB?s=09)
 [![](https://img.shields.io/badge/-instagram-EE3E5D?style=flat-square)](https://www.instagram.com/steisser/)
 [![](https://img.shields.io/badge/-github-332B40?style=flat-square)](https://github.com/melissarr/)
