@@ -1,5 +1,4 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-**‹‹ social media**
 <a href="https://github.com/melissarr">
   <img align="left" alt="Abhishek's GitHub" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
 </a>
