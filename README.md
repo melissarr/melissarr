@@ -3,7 +3,7 @@
 
 ꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷
 
-she/her - coder of hap
+she/her
 
 [![Melissar's GitHub stats](https://github-readme-stats.vercel.app/api?username=melissarr&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
