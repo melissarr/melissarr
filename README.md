@@ -12,4 +12,4 @@ She/her
 [![](https://img.shields.io/badge/-animals-1C9CEA?style=flat-square)](https://twitter.com/BichinhosFB?s=09)
 [![](https://img.shields.io/badge/-instagram-EE3E5D?style=flat-square)](https://www.instagram.com/steisser/)
 [![](https://img.shields.io/badge/-github-332B40?style=flat-square)](https://github.com/melissarr/)
-[![](https://img.shields.io/badge/-amazon-2D4E00?style=flat-square)](https://www.amazon.com.br/hz/wishlist/ls/6PB7FHQF8GWA?ref_=wl_share)
+[![](https://img.shields.io/badge/-my.wish.list-2D4E00?style=flat-square)](https://www.amazon.com.br/hz/wishlist/ls/6PB7FHQF8GWA?ref_=wl_share)
