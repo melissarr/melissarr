@@ -3,9 +3,9 @@
 
 ꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷
 
-she/her
+She/her
 
-hi everyone, i'm melissar nice too meet you ! python, c++ and javascript
+Hi everyone, I'm melissar nice too meet you ! My favorite languages is python, c++ and javascript.
 
 [![Melissar's GitHub stats](https://github-readme-stats.vercel.app/api?username=melissarr&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
