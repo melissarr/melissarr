@@ -15,8 +15,6 @@ She/her
 [![](https://img.shields.io/badge/-my.wish.list-2D4E00?style=flat-square)](https://www.amazon.com.br/hz/wishlist/ls/6PB7FHQF8GWA?ref_=wl_share)
 
 ![Visitor Count](https://profile-counter.glitch.me/melissarr/count.svg)
-
-<div> 
  
  ![Snake animation](https://github.com/melissarr/melissarr/blob/output/github-contribution-grid-snake.svg)
   
